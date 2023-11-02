@@ -22,7 +22,7 @@ struct binary_tree_s
 	struct binary_tree_s *right;
 };
 
-typedef struct binary_tree_s binary_tree_t;
+
 
 
 /** Binary Search Tree **/
